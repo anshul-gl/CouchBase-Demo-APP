@@ -101,8 +101,5 @@ public class BuildingServices {
 		}
 		return response.toString();    	
     }
-//    public Long countBuildings(String companyId) {
-//        return buildingRepository.countBuildings(companyId);
-//    }
 
 }
